@@ -202,6 +202,3 @@ Data Manipulation	NumPy, Matplotlib
 Model Deployment	Flask / Streamlit (optional)
 
 ====================================================================
-⸻
-
-Would you like me to customize this README with your GitHub username + project repo structure (badges, model metrics table, visuals) so it looks exactly like a polished senior engineer GitHub portfolio project?
